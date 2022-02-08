@@ -1,7 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-area{
+    background: #F0FFF0;
+    background-image: url("images/Photos/Illustration.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right center;
+    height: 576px;
+    width: 1440px;
+    border-radius: 0px;
+    
+
+}
 .logo-img{
-    height: 80px;
+    height: 60px;
     width: 200px;
 }
 .menu-bar{
     justify-content: right;
+}
+.para-part{
+    padding-top: 100px;
+}
+.color-p{
+    color: red;
 }
