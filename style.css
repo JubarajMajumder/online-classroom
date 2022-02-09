@@ -1,19 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-
 .header-area{
+    background-color: #F0FFF0;
+}
+.container-fluid{
+    background-color: #F0FFF0; 
+}
+
+
+.para-part{
     background: #F0FFF0;
     background-image: url("images/Photos/Illustration.png");
+    background-size: 554px 346px;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: right center;
-    height: 576px;
-    width: 1440px;
+    background-attachment: initial;
+    background-position: right;
+    height: 500px;
+    width: auto;
     border-radius: 0px;
     
 
 }
+
 .logo-img{
     height: 60px;
     width: 200px;
@@ -26,4 +35,7 @@ body{
 }
 .color-p{
     color: red;
+}
+.color-font{
+    color: green;
 }
