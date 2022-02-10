@@ -39,3 +39,27 @@ body{
 .color-font{
     color: green;
 }
+.col{
+    height: 270px;
+    width: 270px;
+    padding-top: 30px;
+    margin-left: 60px;
+
+    
+}
+.card-img-top{
+    height: 83px;
+    width: 80px;
+    margin-left: 75px;
+
+    
+}
+.card{
+    border: 3px solid red;
+}
+.h-100{
+    padding-top: 30px;
+}
+.card-body{
+    text-align: center;
+}
