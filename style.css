@@ -55,11 +55,47 @@ body{
     
 }
 .card{
-    border: 3px solid red;
+    border: none;
+    background-color: #F0FFF0;
+
+}
+.card-student{
+    background-color: white;
+    box-shadow: 5px 10px 5px 5px lightgray;
+    border-radius: 10px;
 }
 .h-100{
     padding-top: 30px;
 }
 .card-body{
     text-align: center;
+}
+/*Online course area*/
+.oc-headline{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.oc-box{
+    height: 460px;
+    width: 340px;
+    float: left;
+    margin-right: 30px;
+    box-shadow: 5px 10px 10px 5px lightgray;
+    border-radius: 20px;
+    
+}
+.doc{
+    padding-left: 20px;
+}
+.oc-image{
+    height: 234px;
+    width: 331px;
+    padding: 20px;
+}
+.oc-box-heading{
+    padding-top: 20px;
+}
+.btn{
+    border-radius: 30px;
 }
